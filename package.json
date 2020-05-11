@@ -1,0 +1,19 @@
+{
+  "name": "coston",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "curl-request": "^1.1.1",
+    "request": "^2.88.2",
+    "ripple-keypairs": "^1.0.0",
+    "ripple-lib": "*",
+    "web3":"*",
+    "web3-eth-accounts": "*",
+    "truffle":"*",
+    "@truffle/hdwallet-provider":"*"
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
